@@ -21,7 +21,7 @@ The goal is to support local health and social care planning by spotlighting pre
 - Identify frequent reasons and patterns behind care delays
 - Provide actionable insights for care coordination and policy improvement
 
-## 🛠Tools & Data Sources
+## Tools & Data Sources
 
 - **Language:** Python with libraries like pandas, numpy, matplotlib, seaborn, geopandas
 - **Data Sources:** NHS England DTOC statistics (Integrated Discharge Dataset), Kent & Medway ICS reports, ONS demographic context
