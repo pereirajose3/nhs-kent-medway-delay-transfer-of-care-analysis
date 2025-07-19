@@ -2,7 +2,7 @@
 
 Analyzing delayed transfers of care (DTOC) in NHS Kent & Medway to identify trends and improvement opportunities.
 
-## Project Overview
+## Project Overview 
 
 This project investigates Delayed Transfers of Care (DTOC) in the Kent & Medway Integrated Care System (ICS). DTOC occurs when patients remain in hospital after being deemed medically fit for discharge, often due to non‑clinical factors like social care or care home placement delays.
 
