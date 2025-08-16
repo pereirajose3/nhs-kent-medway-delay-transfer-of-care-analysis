@@ -1,6 +1,6 @@
-# NHS Kent & Medway Delayed Transfer of Care Analysis
+# NHS Norfolk and Waveney ICB Delayed Transfer of Care Analysis
 
-Analyzing delayed transfers of care (DTOC) in NHS Kent & Medway to identify trends and improvement opportunities.
+Analyzing delayed transfers of care (DTOC) in NHS Kent & Medway ICB to identify trends and improvement opportunities.
 
 ## Project Overview 
 
