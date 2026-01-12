@@ -43,22 +43,10 @@ With the exception of hospital process, all delays categories involve contributi
  
 If we focus on the patient-day delays attributed to capacity issues, the main reason within this category is that bed-based rehabilitation, reablement or recovery services not yet available (9,969 patient-days) (Figure 5). Within the hospital process category, the largest contributor is awaiting patient transport services (2,796 patient-days) , followed by awaiting medical review of need for supported discharge, awaiting referral to care transfer hub for supported discharge and awaiting formal discission to discharge. (Figure 6).
  
-<img width="4622" height="2745" alt="delay_reason_breakdown_interface_process_nhsblue" src="https://github.com/user-attachments/assets/26ae6166-97ab-445b-856a-c66a62f1bc61" />
-
-<img width="4623" height="2745" alt="delay_reason_breakdown_hospital_process_nhsblue" src="https://github.com/user-attachments/assets/97c776d6-a176-4fe1-bc60-97b17f12548e" />
-
-<img width="4622" height="2745" alt="delay_reason_breakdown_care_transfer_hub_process_nhsblue" src="https://github.com/user-attachments/assets/22f177ab-7db7-4aa7-9932-0458e4796d60" />
+<img width="4622" height="2745" alt="delay_reason_breakdown_capacity_nhsblue" src="https://github.com/user-attachments/assets/ff484ad4-ccd5-4c09-a337-001bc04cefa3" />
 
 
-
-
-
-
-
-
-
-
- 
+<img width="4623" height="2745" alt="delay_reason_breakdown_hospital_process_nhsblue" src="https://github.com/user-attachments/assets/e3af9b14-edfa-40d1-92b2-37594b613ff6" />
 
 
 ### 2.4- Bed Occupancy Context
