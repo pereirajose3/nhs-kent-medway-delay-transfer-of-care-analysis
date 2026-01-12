@@ -15,11 +15,9 @@ At Norfolk and Norwich University Hospitals, most patients who no longer met the
 ### 2.2-Nature of Discharge Delays 
 At Norfolk and Norwich University Hospitals, the largest driver of bed days lost after the discharge-ready date was patients experiencing long delays of more than 21 days. These long delays accounted for a large proportion of bed days lost in the entire period. Delays of 14-20 days and 7-13 days also contributed to a considerable portion of bed days lost, forming the second-largest groups. Shorter delays, —1 day, 2-3 days and 4-6 days—represented a smaller proportion of the total days lost (Figure 2).
 
-<img width="4575" height="2149" alt="Delayed_discharges_James Paget University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/6c058be5-45ac-4c16-b5d5-8015f7cca092" />
+<img width="4574" height="2149" alt="Delayed_discharges_Norfolk And Norwich University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/2a394b3d-f26a-4527-accb-db2b2fcd7915" />
 
 
-
- 
 At Norfolk and Norwich University Hospitals, the average days from discharge-ready date to discharge has been decreasing and has remained below the national average. In February 2024, the average was 5.9 days at Norfolk and Norwich and 6.3 days nationally. By February 2025, the average had fallen to 4.8 days at Norfolk and Norwich and slightly decreased to 6.1 days nationally (Figure 3). 
 
 <img width="4573" height="2149" alt="average_days_delayed_JamesPaget_vs_England_labels" src="https://github.com/user-attachments/assets/9577f9e4-0ddd-44a4-8b00-cd811f88d334" />
