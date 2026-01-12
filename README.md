@@ -14,7 +14,7 @@ At Norfolk and Norwich University Hospitals, most patients who no longer met the
 <img width="4575" height="2149" alt="o_Patients_Who_No_Longer_Meet_The_Criteria_To_Reside_Norfolk And Norwich University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/2edc1e5b-5dc5-40f2-8d9d-52f4a51ce279" />
 Figure 1: Outcomes for Patients Who No Longer Meet the Criteria to Reside
 
- 
+
 ### 2.2-Nature of Discharge Delays 
 At Norfolk and Norwich University Hospitals, the largest driver of bed days lost after the discharge-ready date was patients experiencing long delays of more than 21 days. These long delays accounted for a large proportion of bed days lost in the entire period. Delays of 14-20 days and 7-13 days also contributed to a considerable portion of bed days lost, forming the second-largest groups. Shorter delays, —1 day, 2-3 days and 4-6 days—represented a smaller proportion of the total days lost (Figure 2).
 
@@ -45,7 +45,6 @@ With the exception of hospital process, all delays categories involve contributi
 
 <img width="2465" height="1289" alt="delay_reasons_norfolk_and_norwich_university_hospitals_nhs_foundation_trust_nhsblue_overview" src="https://github.com/user-attachments/assets/a00e6f69-90e2-4ccf-93a0-f6908f918f9a" />
 Figure 4: Reasons for Delayed Patient-Days at Norfolk and Norwich University Hospitals (Jun 2024–Apr 2025)
-
 
 If we focus on the patient-day delays attributed to capacity issues, the main reason within this category is that bed-based rehabilitation, reablement or recovery services not yet available (9,969 patient-days) (Figure 5). Within the hospital process category, the largest contributor is awaiting patient transport services (2,796 patient-days) , followed by awaiting medical review of need for supported discharge, awaiting referral to care transfer hub for supported discharge and awaiting formal discission to discharge. (Figure 6).
  
