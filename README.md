@@ -46,8 +46,6 @@ With the exception of hospital process, all delays categories involve contributi
 <img width="2465" height="1289" alt="delay_reasons_norfolk_and_norwich_university_hospitals_nhs_foundation_trust_nhsblue_overview" src="https://github.com/user-attachments/assets/a00e6f69-90e2-4ccf-93a0-f6908f918f9a" />
 Figure 4: Reasons for Delayed Patient-Days at Norfolk and Norwich University Hospitals (Jun 2024–Apr 2025)
 
-
- 
 If we focus on the patient-day delays attributed to capacity issues, the main reason within this category is that bed-based rehabilitation, reablement or recovery services not yet available (9,969 patient-days) (Figure 5). Within the hospital process category, the largest contributor is awaiting patient transport services (2,796 patient-days) , followed by awaiting medical review of need for supported discharge, awaiting referral to care transfer hub for supported discharge and awaiting formal discission to discharge. (Figure 6).
  
 <img width="4622" height="2745" alt="delay_reason_breakdown_capacity_nhsblue" src="https://github.com/user-attachments/assets/ff484ad4-ccd5-4c09-a337-001bc04cefa3" />
