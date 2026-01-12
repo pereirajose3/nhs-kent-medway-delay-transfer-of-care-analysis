@@ -22,6 +22,7 @@ At Norfolk and Norwich University Hospitals, the largest driver of bed days lost
 Figure 2:Total Bed Days Lost After Discharge-Ready Date by Length of Delay
 
 
+
 At Norfolk and Norwich University Hospitals, the average days from discharge-ready date to discharge has been decreasing and has remained below the national average. In February 2024, the average was 5.9 days at Norfolk and Norwich and 6.3 days nationally. By February 2025, the average had fallen to 4.8 days at Norfolk and Norwich and slightly decreased to 6.1 days nationally (Figure 3). 
 
 <img width="4573" height="2149" alt="average_days_delayed_JamesPaget_vs_England_labels" src="https://github.com/user-attachments/assets/9577f9e4-0ddd-44a4-8b00-cd811f88d334" />
@@ -44,6 +45,7 @@ With the exception of hospital process, all delays categories involve contributi
 
 <img width="2465" height="1289" alt="delay_reasons_norfolk_and_norwich_university_hospitals_nhs_foundation_trust_nhsblue_overview" src="https://github.com/user-attachments/assets/a00e6f69-90e2-4ccf-93a0-f6908f918f9a" />
 Figure 4: Reasons for Delayed Patient-Days at Norfolk and Norwich University Hospitals (Jun 2024–Apr 2025)
+
 
  
 If we focus on the patient-day delays attributed to capacity issues, the main reason within this category is that bed-based rehabilitation, reablement or recovery services not yet available (9,969 patient-days) (Figure 5). Within the hospital process category, the largest contributor is awaiting patient transport services (2,796 patient-days) , followed by awaiting medical review of need for supported discharge, awaiting referral to care transfer hub for supported discharge and awaiting formal discission to discharge. (Figure 6).
