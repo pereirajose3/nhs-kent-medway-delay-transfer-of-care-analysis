@@ -25,7 +25,7 @@ Figure 2:Total Bed Days Lost After Discharge-Ready Date by Length of Delay
 At Norfolk and Norwich University Hospitals, the average days from discharge-ready date to discharge has been decreasing and has remained below the national average. In February 2024, the average was 5.9 days at Norfolk and Norwich and 6.3 days nationally. By February 2025, the average had fallen to 4.8 days at Norfolk and Norwich and slightly decreased to 6.1 days nationally (Figure 3). 
 
 <img width="4573" height="2149" alt="average_days_delayed_JamesPaget_vs_England_labels" src="https://github.com/user-attachments/assets/9577f9e4-0ddd-44a4-8b00-cd811f88d334" />
-Figure 3: Figure 3: Average Delay from Discharge-Ready Date to Actual Discharge (Excluding 0-Day Delays)
+Figure 3: Average Delay from Discharge-Ready Date to Actual Discharge (Excluding 0-Day Delays)
 
  
 ### 2.3- Reasons for Delayed Discharges
