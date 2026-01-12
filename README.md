@@ -63,12 +63,9 @@ If we focus on the patient-day delays attributed to capacity issues, the main re
 ### 2.4- Bed Occupancy Context
 Although there is no agreed standard for bed occupancy rates, NHS operational planning guidelines set the maximum threshold at 92%. The bed occupancy rate at Norfolk and Norwich University Hospitals remained between 86-93% from 2011to early 2020 (Figure 7). During the pandemic, bed occupancy fell considerably; however, the NHS stated that hospitals experienced bed pressures even with low occupancy levels due to infection-control and additional operational measures related to the management of beds and staff. The bed occupancy rate returned to pre-pandemic levels at the end of 2021 and has since increased, surpassing the NHS 92% threshold in late 2023.
 
-<img width="4575" height="2146" alt="A2_Avg_Daily_Perctg_Available_Beds_James_Paget_University_Hospitals_NHS_Foundation_Trust" src="https://github.com/user-attachments/assets/ec9ae729-ded9-4fc7-9cf0-8f9ed781b9fe" />
 
 <img width="4575" height="2146" alt="A2_Avg_Daily_Perctg_Available_Beds_Norfolk_And_Norwich_University_Hospitals_NHS_Foundation_Trust" src="https://github.com/user-attachments/assets/c3ebd044-4fc8-471f-a264-9fb870f73abb" />
 
-
- 
 
 ## 3. Discussion & Implications
 ### 3.1 Discharge Delays
