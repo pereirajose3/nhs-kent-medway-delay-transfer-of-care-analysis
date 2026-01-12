@@ -9,11 +9,7 @@ Based on the findings of this report, several next steps should be considered. F
 ### 2.1- Overall Discharge Challenges
 At Norfolk and Norwich University Hospitals, most patients who no longer met the criteria to reside were discharged promptly. From June 2024 to March 2025, between 1,000 and 1,300 patients per day on average remained in hospital despite no longer meeting the criteria to reside, with a seasonal spike in December 2024 when the number rose to around 1,900 patients (Figure 1). Although this is a substantial number, this represents a relatively small proportion of the total 5,000 to 6,000 patients a day identified as no longer meeting the criteria to reside during the same period.
 
-<img width="4575" height="2149" alt="o_Patients_Who_No_Longer_Meet_The_Criteria_To_Reside_James Paget University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/785a9798-d2a4-4aec-9e77-e4b7a050d084" />
-
-
-
-
+<img width="4575" height="2149" alt="o_Patients_Who_No_Longer_Meet_The_Criteria_To_Reside_Norfolk And Norwich University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/2edc1e5b-5dc5-40f2-8d9d-52f4a51ce279" />
 
  
 ### 2.2-Nature of Discharge Delays 
