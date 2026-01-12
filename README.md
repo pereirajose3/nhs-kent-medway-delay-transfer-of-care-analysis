@@ -12,6 +12,10 @@ At Norfolk and Norwich University Hospitals, most patients who no longer met the
 <img width="4575" height="2149" alt="o_Patients_Who_No_Longer_Meet_The_Criteria_To_Reside_James Paget University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/785a9798-d2a4-4aec-9e77-e4b7a050d084" />
 
 
+<img width="468" height="220" alt="image" src="https://github.com/user-attachments/assets/8809fa14-b3e1-4e72-8aa8-2f3f2082a6b7" />
+
+
+
  
 ### 2.2-Nature of Discharge Delays 
 At Norfolk and Norwich University Hospitals, the largest driver of bed days lost after the discharge-ready date was patients experiencing long delays of more than 21 days. These long delays accounted for a large proportion of bed days lost in the entire period. Delays of 14-20 days and 7-13 days also contributed to a considerable portion of bed days lost, forming the second-largest groups. Shorter delays, —1 day, 2-3 days and 4-6 days—represented a smaller proportion of the total days lost (Figure 2).
