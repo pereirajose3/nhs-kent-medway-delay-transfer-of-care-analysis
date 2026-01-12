@@ -38,7 +38,8 @@ Capacity delays are the most common reason for delayed discharge at Norfolk and 
 •	Capacity (where the required service for the patient is not yet accessible)
 With the exception of hospital process, all delays categories involve contributions from both the NHS and social care. From June 2024 to April 2025, patients at Norfolk and Norwich with lengths of stays of at least 14 days collectively experienced 33,705 patient-days of delay. The main cause was capacity (16,374 patient-days), followed by hospital process (10,829), care-transfer hub process (2,974), interface process (2,587), and wellbeing concerns (941) (Figure 4).
 
-<img width="2465" height="1289" alt="delay_reasons_james_paget_university_hospitals_nhs_foundation_trust_nhsblue_overview" src="https://github.com/user-attachments/assets/321a724d-ab72-4265-854b-4f5f95868a1f" />
+<img width="2465" height="1289" alt="delay_reasons_norfolk_and_norwich_university_hospitals_nhs_foundation_trust_nhsblue_overview" src="https://github.com/user-attachments/assets/a00e6f69-90e2-4ccf-93a0-f6908f918f9a" />
+
  
 If we focus on the patient-day delays attributed to capacity issues, the main reason within this category is that bed-based rehabilitation, reablement or recovery services not yet available (9,969 patient-days) (Figure 5). Within the hospital process category, the largest contributor is awaiting patient transport services (2,796 patient-days) , followed by awaiting medical review of need for supported discharge, awaiting referral to care transfer hub for supported discharge and awaiting formal discission to discharge. (Figure 6).
  
