@@ -12,17 +12,20 @@ Based on the findings of this report, several next steps should be considered. F
 At Norfolk and Norwich University Hospitals, most patients who no longer met the criteria to reside were discharged promptly. From June 2024 to March 2025, between 1,000 and 1,300 patients per day on average remained in hospital despite no longer meeting the criteria to reside, with a seasonal spike in December 2024 when the number rose to around 1,900 patients (Figure 1). Although this is a substantial number, this represents a relatively small proportion of the total 5,000 to 6,000 patients a day identified as no longer meeting the criteria to reside during the same period.
 
 <img width="4575" height="2149" alt="o_Patients_Who_No_Longer_Meet_The_Criteria_To_Reside_Norfolk And Norwich University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/2edc1e5b-5dc5-40f2-8d9d-52f4a51ce279" />
+Figure 1: Outcomes for Patients Who No Longer Meet the Criteria to Reside
 
  
 ### 2.2-Nature of Discharge Delays 
 At Norfolk and Norwich University Hospitals, the largest driver of bed days lost after the discharge-ready date was patients experiencing long delays of more than 21 days. These long delays accounted for a large proportion of bed days lost in the entire period. Delays of 14-20 days and 7-13 days also contributed to a considerable portion of bed days lost, forming the second-largest groups. Shorter delays, —1 day, 2-3 days and 4-6 days—represented a smaller proportion of the total days lost (Figure 2).
 
 <img width="4574" height="2149" alt="Delayed_discharges_Norfolk And Norwich University Hospitals NHS Foundation Trust" src="https://github.com/user-attachments/assets/2a394b3d-f26a-4527-accb-db2b2fcd7915" />
+Figure 2:Total Bed Days Lost After Discharge-Ready Date by Length of Delay
 
 
 At Norfolk and Norwich University Hospitals, the average days from discharge-ready date to discharge has been decreasing and has remained below the national average. In February 2024, the average was 5.9 days at Norfolk and Norwich and 6.3 days nationally. By February 2025, the average had fallen to 4.8 days at Norfolk and Norwich and slightly decreased to 6.1 days nationally (Figure 3). 
 
 <img width="4573" height="2149" alt="average_days_delayed_JamesPaget_vs_England_labels" src="https://github.com/user-attachments/assets/9577f9e4-0ddd-44a4-8b00-cd811f88d334" />
+Figure 3: Figure 3: Average Delay from Discharge-Ready Date to Actual Discharge (Excluding 0-Day Delays)
 
  
 ### 2.3- Reasons for Delayed Discharges
@@ -40,14 +43,16 @@ Capacity delays are the most common reason for delayed discharge at Norfolk and 
 With the exception of hospital process, all delays categories involve contributions from both the NHS and social care. From June 2024 to April 2025, patients at Norfolk and Norwich with lengths of stays of at least 14 days collectively experienced 33,705 patient-days of delay. The main cause was capacity (16,374 patient-days), followed by hospital process (10,829), care-transfer hub process (2,974), interface process (2,587), and wellbeing concerns (941) (Figure 4).
 
 <img width="2465" height="1289" alt="delay_reasons_norfolk_and_norwich_university_hospitals_nhs_foundation_trust_nhsblue_overview" src="https://github.com/user-attachments/assets/a00e6f69-90e2-4ccf-93a0-f6908f918f9a" />
-
+Figure 4: Reasons for Delayed Patient-Days at Norfolk and Norwich University Hospitals (Jun 2024–Apr 2025)
  
 If we focus on the patient-day delays attributed to capacity issues, the main reason within this category is that bed-based rehabilitation, reablement or recovery services not yet available (9,969 patient-days) (Figure 5). Within the hospital process category, the largest contributor is awaiting patient transport services (2,796 patient-days) , followed by awaiting medical review of need for supported discharge, awaiting referral to care transfer hub for supported discharge and awaiting formal discission to discharge. (Figure 6).
  
 <img width="4622" height="2745" alt="delay_reason_breakdown_capacity_nhsblue" src="https://github.com/user-attachments/assets/ff484ad4-ccd5-4c09-a337-001bc04cefa3" />
+Figure 5: Detailed Breakdown of “Capacity” Discharge Delay Reasons (Jun 2024 – Apr 2025)
 
 
 <img width="4623" height="2745" alt="delay_reason_breakdown_hospital_process_nhsblue" src="https://github.com/user-attachments/assets/e3af9b14-edfa-40d1-92b2-37594b613ff6" />
+Figure 6: Detailed Breakdown of “Hospital Process” Discharge Delay Reasons (Jun 2024 – Apr 2025)
 
 
 ### 2.4- Bed Occupancy Context
@@ -55,6 +60,7 @@ Although there is no agreed standard for bed occupancy rates, NHS operational pl
 
 
 <img width="4575" height="2146" alt="A2_Avg_Daily_Perctg_Available_Beds_Norfolk_And_Norwich_University_Hospitals_NHS_Foundation_Trust" src="https://github.com/user-attachments/assets/c3ebd044-4fc8-471f-a264-9fb870f73abb" />
+Figure 7: Average Daily Percentage of Overnight Bed Occupancy (2011–2024)
 
 
 ## 3. Discussion & Implications
